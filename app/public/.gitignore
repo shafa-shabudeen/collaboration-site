@@ -1,0 +1,13 @@
+# WordPress core files
+wp-config.php
+wp-content/uploads
+
+# Theme files
+wp-content/themes
+
+# Plugin files
+wp-content/plugins
+
+# Local development files
+flywheel.local.yml
+db.env
